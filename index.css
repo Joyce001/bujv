@@ -1,7 +1,4 @@
 *{margin:0;padding:0;}
-.container{
-
-}
 .container .left{
 	width:200px;
 	height:600px;
@@ -12,5 +9,4 @@
 	height:600px;
 	background:#faa;
 	margin-left:200px;
-
 }
